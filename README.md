@@ -4,6 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
+## API'S USED
+ - https://corona.lmao.ninja/all
+ - https://corona.lmao.ninja/countries
+ https://api.rootnet.in/covid19-in/stats/latest
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
