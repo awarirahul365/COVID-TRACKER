@@ -7,7 +7,7 @@ A new Flutter project.
 ## API'S USED
  - https://corona.lmao.ninja/all
  - https://corona.lmao.ninja/countries
- https://api.rootnet.in/covid19-in/stats/latest
+ - https://api.rootnet.in/covid19-in/stats/latest
 
 This project is a starting point for a Flutter application.
 
