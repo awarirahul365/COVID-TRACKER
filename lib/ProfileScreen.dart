@@ -16,7 +16,7 @@ class ProfileScreen extends StatelessWidget {
   final GoogleSignIn _gSignIn =  GoogleSignIn();
 
     return  Scaffold(
-        appBar:  AppBar(
+        appBar  AppBar(
           backgroundColor: Color(0xff010080),
           title:  Center(
             child: Text("PROFILE"),
